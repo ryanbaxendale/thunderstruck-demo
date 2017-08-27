@@ -5,8 +5,9 @@ https://www.defcon.org/html/defcon-25/dc-25-speakers.html#Baxendale
 
 slides:
 
-* DEFCON-25-Ryan-Baxendale-Microservices-and-FaaS-for-Offensive-Security_release.pdf
 * DEFCON-25-Ryan-Baxendale-Microservices-and-FaaS-for-Offensive-Security_release.pptx
+* DEFCON-25-Ryan-Baxendale-Microservices-and-FaaS-for-Offensive-Security_release.pdf
+* https://media.defcon.org/DEF%20CON%2025/DEF%20CON%2025%20presentations/DEFCON-25-Ryan-Baxendale-Microservices-and-FaaS-for-Offensive-Security-UPDATED.pdf
 
 code:
 
@@ -14,6 +15,9 @@ code:
 * ddos.without.servers
 * sms.otp
 
+demo:
+
+* defcon.otp6_29s.mkv
 
 ## BSidesLV 2017 - 25 July 2017
 
