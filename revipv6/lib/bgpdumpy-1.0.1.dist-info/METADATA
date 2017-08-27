@@ -1,0 +1,25 @@
+Metadata-Version: 2.0
+Name: bgpdumpy
+Version: 1.0.1
+Summary: A Python CFFI wrapper for analyzing MRTv1 and MRTv2 BGP table dump files
+Home-page: https://github.com/AlexForster/bgpdumpy
+Author: Alex Forster
+Author-email: alex@alexforster.com
+License: 3-Clause ("New") BSD license
+Download-URL: https://pypi.python.org/pypi/bgpdumpy
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: POSIX
+Classifier: Operating System :: POSIX :: BSD
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Programming Language :: C
+Classifier: Programming Language :: Python
+Classifier: Topic :: Software Development :: Libraries
+Requires-Dist: cffi
+
+UNKNOWN
+
+
