@@ -1,5 +1,5 @@
 
-## DEFCON 25 - 25 July 2017
+## DEFCON 25 - 29 July 2017
 
 https://www.defcon.org/html/defcon-25/dc-25-speakers.html#Baxendale
 
