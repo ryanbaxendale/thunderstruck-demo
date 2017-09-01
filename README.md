@@ -33,7 +33,7 @@ code:
 * hello.serverless.world
 * revipv6
 
-video: https://www.youtube.com/watch?v=SBfE5Ot7iFA&feature=youtu.be&t=23763
+video: https://www.youtube.com/watch?v=2I7suRq-brU
 
-[![BSidesLV 2017 - 25 July 2017](http://img.youtube.com/vi/SBfE5Ot7iFA/0.jpg)](https://www.youtube.com/watch?v=SBfE5Ot7iFA&feature=youtu.be&t=23763)
+[![BSidesLV 2017 - 25 July 2017](http://img.youtube.com/vi/2I7suRq-brU/0.jpg)](https://www.youtube.com/watch?v=2I7suRq-brU)
 
