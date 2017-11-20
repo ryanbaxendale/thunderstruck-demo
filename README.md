@@ -19,6 +19,10 @@ demo:
 
 * defcon.otp6_29s.mkv
 
+video: https://www.youtube.com/watch?v=hVF9EEwIqR8
+
+[![DEFCON 25 - 29 July 2017](http://img.youtube.com/vi/hVF9EEwIqR8/0.jpg)](https://www.youtube.com/watch?v=hVF9EEwIqR8)
+
 ## BSidesLV 2017 - 25 July 2017
 
 https://bsideslv2017.sched.com/event/BNEv/microservices-and-faas-for-offensive-security
